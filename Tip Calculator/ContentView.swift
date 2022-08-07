@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  WeSplit
+//  Tip Calculator
 //
 //  Created by Bryon Carlin on 8/3/22.
 //
